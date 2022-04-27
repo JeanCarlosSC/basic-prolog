@@ -1,2 +1,2 @@
-# prolog-basico
-👁 Código básico en prolog.
+# Modelos de programación 2
+🙄 Código implementado en la clase de modelos de programación 2.
